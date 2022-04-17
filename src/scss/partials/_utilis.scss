@@ -1,2 +1,20 @@
 // .class {}
 // ...
+
+main {
+    min-height: 95vh;
+}
+
+.overflow-y-auto {
+  overflow-y: auto !important;
+}
+
+.hide-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.hide-scroll {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
