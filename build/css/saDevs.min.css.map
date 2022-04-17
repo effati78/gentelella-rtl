@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AEGA,AAAA,IAAI,AAAC,CACD,UAAU,CAAE,IAAI,CACnB,AAED,AAAA,gBAAgB,AAAC,CACf,UAAU,CAAE,eAAe,CAC5B,AAED,AAAA,YAAY,AAAA,mBAAmB,AAAC,CAC9B,OAAO,CAAE,IAAI,CACd,AAGD,AAAA,YAAY,AAAC,CACX,kBAAkB,CAAE,IAAI,CACxB,eAAe,CAAE,IAAI,CACtB",
+    "sources": [
+        "../../src/scss/saDevs.scss",
+        "../../src/scss/partials/_extends.scss",
+        "../../src/scss/partials/_utilis.scss"
+    ],
+    "names": [],
+    "file": "saDevs.min.css"
+}
